@@ -1,0 +1,16 @@
+# datasets
+data/*.csv
+
+# python
+__pycache__/
+*.pyc
+
+# keras
+*.keras
+*.h5
+
+# tuner
+tuner_results/
+
+# vscode
+.vscode/
